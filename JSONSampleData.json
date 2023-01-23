@@ -1,0 +1,26 @@
+{
+  "bookstore": {
+    "book": [
+      {
+        "title": "Warhammer",
+        "author": "multiple",
+        "rating": "5"
+      },
+      {
+        "title": "Dune 2",
+        "author": "Frank Herbert",
+        "rating": "4.5"
+      },
+      {
+        "title": "Biggest Learning ebook",
+        "author": "Shaman",
+        "rating": "3.0"
+      },
+      {
+        "title": "book for dummies",
+        "author": "dummy",
+        "rating": "4.0"
+      }
+    ]
+  }
+}

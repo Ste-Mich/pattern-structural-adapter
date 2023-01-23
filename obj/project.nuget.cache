@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDYxYid2zpXHSqLkCMVYYdXitWr1iNsqCwBwHlj4U9fSaB/1/MGkPIu8xBkulRHn1cNPHK9kOhksrj5UVwdYkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CZMichalSt\\source\\repos\\- Refactoring\\Structural\\Adapter\\Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CZMichalSt\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

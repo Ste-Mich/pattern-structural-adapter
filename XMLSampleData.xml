@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+	<book>
+		<title>Harry Potter</title>
+		<author>J.K. Rowling</author>
+		<rating>4.5</rating>
+	</book>
+	<book>
+		<title>Dune</title>
+		<author>Frank Herbert</author>
+		<rating>4.5</rating>
+	</book>
+	<book>
+		<title>Big Learning book</title>
+		<author>Guru</author>
+		<rating>3.5</rating>
+	</book>
+</bookstore>
